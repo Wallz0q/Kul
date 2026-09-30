@@ -1,0 +1,14 @@
+{
+  "name": "sc-unserbot-target-v1",
+  "version": "1.0.0",
+  "description": "Telegram userbot Node.js dengan target grup dan Auto-Share terkontrol",
+  "main": "userbot.js",
+  "scripts": {
+    "start": "node userbot.js"
+  },
+  "dependencies": {
+    "input": "^1.0.1",
+    "telegram": "^2.26.22",
+    "dotenv": "^16.4.7"
+  }
+}
